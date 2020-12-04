@@ -1,2 +1,2 @@
 # Springboard Guided Capstone One
-A repository for the Big Mountain Resort project, Springboard's first guided capstone.
+A repository for the Big Mountain Resort project, a guided project from the Springboard Data Science Career Track
